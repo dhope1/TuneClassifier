@@ -1,6 +1,6 @@
 # TuneClassifier
- -Predicting Music Genres with Audio Analytics and Machine Learning
- -Song Genre Classification using Audio Features and Machine Learning
+ -Predicting Music Genres And Song Genre Classification with Audio Analytics and Machine Learning
+ 
 
 ##  Overview
 

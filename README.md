@@ -9,7 +9,7 @@ This project aims to classify songs into genres using audio features and machine
 ## Dataset
 
 - MagnaTagATune
-- Million Song Dataset
+
 
 ## Steps
 
